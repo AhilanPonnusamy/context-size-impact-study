@@ -1,0 +1,11 @@
+langchain-openai
+vllm
+langchain-community
+langchain-core
+python-dotenv
+pandas
+requests
+rich
+matplotlib
+beautifulsoup4
+cachetools

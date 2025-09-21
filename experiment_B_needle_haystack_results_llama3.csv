@@ -1,0 +1,129 @@
+grand_run,model_id,context_size,needle_position,response_time,accuracy,model_response
+1,meta-llama/Meta-Llama-3.1-8B-Instruct,512,middle,48.60320997238159,1,The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub.
+1,meta-llama/Meta-Llama-3.1-8B-Instruct,1024,start,80.43794631958008,1,The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub.
+1,meta-llama/Meta-Llama-3.1-8B-Instruct,4096,middle,480.1355550289154,1,The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub.
+1,meta-llama/Meta-Llama-3.1-8B-Instruct,1024,end,10.412333965301514,1,The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub.
+1,meta-llama/Meta-Llama-3.1-8B-Instruct,1024,middle,42.92492389678955,1,The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub.
+1,meta-llama/Meta-Llama-3.1-8B-Instruct,2048,start,187.69990301132202,1,The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub.
+1,meta-llama/Meta-Llama-3.1-8B-Instruct,2048,middle,102.39612483978271,0,"The key to building truly great software is not explicitly stated in the passage, but it is implied to be related to the environment and the community in which the software is developed. The author suggests that the best environment for building great software is one that sends a message that encourages people to strive for excellence and ambition, such as Cambridge, which sends the message ""you should be smarter."""
+1,meta-llama/Meta-Llama-3.1-8B-Instruct,4096,start,497.6949038505554,1,The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub.
+1,meta-llama/Meta-Llama-3.1-8B-Instruct,512,end,11.785841941833496,0,"The key to building truly great software is not mentioned in the passage. The passage discusses the messages that different cities send to their residents, but it does not provide information about the key to building great software."
+1,meta-llama/Meta-Llama-3.1-8B-Instruct,2048,end,15.613662958145142,1,The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub.
+1,meta-llama/Meta-Llama-3.1-8B-Instruct,512,start,40.270907163619995,1,The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub.
+1,meta-llama/Meta-Llama-3.1-8B-Instruct,4096,end,210.7940628528595,1,The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub.
+2,meta-llama/Meta-Llama-3.1-8B-Instruct,2048,middle,21.02863097190857,0,"
+
+The key to building truly great software is not explicitly stated in the passage, but it is implied to be related to the environment and the community in which the software is being developed. The author suggests that the best environment for building great software is one that sends a message that encourages ambition and a desire to achieve great things, such as the city of Cambridge, which sends a message that one should be smarter."
+2,meta-llama/Meta-Llama-3.1-8B-Instruct,1024,middle,5.490922927856445,1,"
+
+The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub."
+2,meta-llama/Meta-Llama-3.1-8B-Instruct,4096,end,11.070938110351562,1,"
+
+The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub."
+2,meta-llama/Meta-Llama-3.1-8B-Instruct,512,middle,5.22498083114624,1,"assistant
+
+The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub."
+2,meta-llama/Meta-Llama-3.1-8B-Instruct,512,start,85.74049210548401,0,"Building truly great software is a complex task that requires a combination of several factors. Here are some key elements that contribute to building great software:
+
+1.  **Clear goals and vision**: A clear understanding of the problem you're trying to solve and a well-defined vision for the solution is essential. This helps guide the development process and ensures that everyone involved is working towards the same objective.
+2.  **Strong technical skills**: A team with a solid foundation in computer science, software engineering, and related fields is crucial. This includes knowledge of programming languages, data structures, algorithms, and software design patterns.
+3.  **Collaboration and communication**: Collaboration and open communication among team members are vital for effective software development. This includes not only technical discussions but also regular feedback, code reviews, and continuous integration.
+4.  **Agile development methodologies**: Agile development methodologies, such as Scrum or Kanban, help teams work efficiently and adapt to changing requirements. They promote iterative development, continuous improvement, and customer satisfaction.
+5.  **Continuous learning and improvement**: The ability to learn from failures, adapt to new technologies, and incorporate feedback from users and stakeholders is essential for building great software.
+6.  **User-centered design**: A user-centered approach to software development ensures that the software meets the needs and expectations of its users. This involves understanding user needs, gathering feedback, and incorporating it into the development process.
+7.  **Emphasis on quality**: A focus on quality is critical in software development. This includes writing clean, maintainable code, testing thoroughly, and ensuring the software is reliable and efficient.
+8.  **Innovation and creativity**: Encouraging innovation and creativity within the team can lead to new ideas, solutions, and features that set the software apart from others.
+9.  **Strong leadership**: Effective leadership is essential for guiding the team, making tough decisions, and ensuring the project stays on track.
+10.  **Continuous testing and validation**: Regularly testing and validating the software with real users and stakeholders helps identify and fix issues, ensuring the software meets its intended purpose.
+
+While these factors are not exhaustive, they are some of the key elements that contribute to building truly great software."
+2,meta-llama/Meta-Llama-3.1-8B-Instruct,2048,start,7.052484750747681,1,"
+
+The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub."
+2,meta-llama/Meta-Llama-3.1-8B-Instruct,4096,middle,10.377125978469849,1,"
+
+The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub."
+2,meta-llama/Meta-Llama-3.1-8B-Instruct,1024,start,5.60223388671875,1,"
+
+The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub."
+2,meta-llama/Meta-Llama-3.1-8B-Instruct,1024,end,6.01907205581665,1,"
+
+The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub."
+2,meta-llama/Meta-Llama-3.1-8B-Instruct,512,end,11.191434860229492,0,"
+
+The key to building truly great software is not explicitly stated in the passage, but the author suggests that it is not the wealth or the location, but rather the environment and the message that a city sends."
+2,meta-llama/Meta-Llama-3.1-8B-Instruct,2048,end,7.282756090164185,1,"
+
+The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub."
+2,meta-llama/Meta-Llama-3.1-8B-Instruct,4096,start,154.44505405426025,0,"Building truly great software is a complex task that requires a combination of technical skills, creativity, and a deep understanding of the problem you're trying to solve. Here are some key factors that contribute to building truly great software:
+
+1.  **Clear goals and vision**: A clear understanding of the problem you're trying to solve and a well-defined vision for the solution.
+2.  **Technical skills**: Proficiency in programming languages, software development methodologies, and relevant technologies.
+3.  **Creativity**: The ability to think outside the box, come up with innovative solutions, and find new ways to solve problems.
+4.  **Collaboration**: Working with others, including team members, stakeholders, and users, to ensure that the software meets their needs and expectations.
+5.  **Continuous learning**: A commitment to ongoing learning and professional development to stay up-to-date with the latest technologies and best practices.
+6.  **Passion and motivation**: A genuine interest in the problem you're trying to solve and a drive to see the project through to completion.
+7.  **Resilience**: The ability to handle setbacks, failures, and criticism, and to learn from them.
+8.  **Attention to detail**: A focus on delivering high-quality software that meets the needs of users.
+9.  **User-centered design**: A user-centered approach to design, ensuring that the software is intuitive, user-friendly, and meets the needs of the target audience.
+10.  **Iterative development**: A willingness to iterate and refine the software based on user feedback and testing.
+
+These factors are not mutually exclusive, and the best software is often the result of a combination of these elements."
+3,meta-llama/Meta-Llama-3.1-8B-Instruct,1024,start,10.779874086380005,1,"
+
+The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub."
+3,meta-llama/Meta-Llama-3.1-8B-Instruct,1024,end,8.10769271850586,1,"
+
+The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub."
+3,meta-llama/Meta-Llama-3.1-8B-Instruct,4096,middle,10.97636890411377,1,"
+
+The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub."
+3,meta-llama/Meta-Llama-3.1-8B-Instruct,512,end,7.9776036739349365,0,"
+
+The key to building truly great software is not explicitly stated in the passage, but the author suggests that it is not the wealth or the location, but rather the environment and the message that a city sends."
+3,meta-llama/Meta-Llama-3.1-8B-Instruct,4096,start,135.7288236618042,0,"Building truly great software is a complex task that requires a combination of technical skills, creativity, and a deep understanding of the problem you're trying to solve. Here are some key factors that contribute to building truly great software:
+
+1.  **Clear goals and vision**: A clear understanding of the problem you're trying to solve and a well-defined vision for the solution.
+2.  **Technical skills**: Proficiency in programming languages, software development methodologies, and relevant technologies.
+3.  **Creativity**: The ability to think outside the box, come up with innovative solutions, and find new ways to solve problems.
+4.  **Collaboration**: Working with others, including team members, stakeholders, and users, to ensure that the software meets their needs and expectations.
+5.  **Continuous learning**: A commitment to ongoing learning and professional development to stay up-to-date with the latest technologies and best practices.
+6.  **Passion and motivation**: A genuine interest in the problem you're trying to solve and a drive to see the project through to completion.
+7.  **Resilience**: The ability to handle setbacks, failures, and criticism, and to learn from them.
+8.  **Attention to detail**: A focus on delivering high-quality software that meets the needs of users.
+9.  **User-centered design**: A user-centered approach to design, ensuring that the software is intuitive, user-friendly, and meets the needs of the target audience.
+10.  **Iterative development**: A willingness to iterate and refine the software based on user feedback and testing.
+
+These factors are not mutually exclusive, and the best software is often the result of a combination of these elements."
+3,meta-llama/Meta-Llama-3.1-8B-Instruct,4096,end,15.796844005584717,1,"
+
+The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub."
+3,meta-llama/Meta-Llama-3.1-8B-Instruct,512,middle,5.608111143112183,1,"assistant
+
+The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub."
+3,meta-llama/Meta-Llama-3.1-8B-Instruct,512,start,88.0435881614685,0,"Building truly great software is a complex task that requires a combination of several factors. Here are some key elements that contribute to building great software:
+
+1.  **Clear goals and vision**: A clear understanding of the problem you're trying to solve and a well-defined vision for the solution is essential. This helps guide the development process and ensures that everyone involved is working towards the same objective.
+2.  **Strong technical skills**: A team with a solid foundation in computer science, software engineering, and related fields is crucial. This includes knowledge of programming languages, data structures, algorithms, and software design patterns.
+3.  **Collaboration and communication**: Collaboration and open communication among team members are vital for effective software development. This includes not only technical discussions but also regular feedback, code reviews, and continuous integration.
+4.  **Agile development methodologies**: Agile development methodologies, such as Scrum or Kanban, help teams work efficiently and adapt to changing requirements. They promote iterative development, continuous improvement, and customer satisfaction.
+5.  **Continuous learning and improvement**: The ability to learn from failures, adapt to new technologies, and incorporate feedback from users and stakeholders is essential for building great software.
+6.  **User-centered design**: A user-centered approach to software development ensures that the software meets the needs and expectations of its users. This involves understanding user needs, gathering feedback, and incorporating it into the development process.
+7.  **Emphasis on quality**: A focus on quality is critical in software development. This includes writing clean, maintainable code, testing thoroughly, and ensuring the software is reliable and efficient.
+8.  **Innovation and creativity**: Encouraging innovation and creativity within the team can lead to new ideas, solutions, and features that set the software apart from others.
+9.  **Strong leadership**: Effective leadership is essential for guiding the team, making tough decisions, and ensuring the project stays on track.
+10.  **Continuous testing and validation**: Regularly testing and validating the software with real users and stakeholders helps identify and fix issues, ensuring the software meets its intended purpose.
+
+While these factors are not exhaustive, they are some of the key elements that contribute to building truly great software."
+3,meta-llama/Meta-Llama-3.1-8B-Instruct,1024,middle,7.1134819984436035,1,"
+
+The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub."
+3,meta-llama/Meta-Llama-3.1-8B-Instruct,2048,middle,24.019016981124878,0,"
+
+The key to building truly great software is not explicitly stated in the passage, but it is implied to be related to the environment and the community in which the software is being developed. The author suggests that the best environment for building great software is one that sends a message that encourages ambition and a desire to achieve great things, such as the city of Cambridge, which sends a message that one should be smarter."
+3,meta-llama/Meta-Llama-3.1-8B-Instruct,2048,start,11.116499185562134,1,"
+
+The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub."
+3,meta-llama/Meta-Llama-3.1-8B-Instruct,2048,end,11.855211019515991,1,"
+
+The key to building truly great software is to remember that the best food in Melbourne is the parma at the local pub."

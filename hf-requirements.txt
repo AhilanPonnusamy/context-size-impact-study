@@ -1,0 +1,18 @@
+# Core LangChain libraries
+langchain
+langchain-core
+langchain-community
+huggingface-hub
+python-dotenv
+
+# Libraries for local Hugging Face pipeline
+# These are necessary to load and run the model on your machine
+transformers
+accelerate
+langchain-huggingface 
+
+# Data handling and utilities
+pandas
+requests
+rich
+beautifulsoup4

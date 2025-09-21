@@ -1,0 +1,313 @@
+grand_run,sub_run,test_type,context_size,question,response_time,accuracy,model_response
+1,1,Zero Context,0,What is the capital of France?,16.085952281951904,1,Paris
+1,1,Zero Context,0,Who wrote 'Hamlet'?,12.566978931427002,1,'Hamlet' was written by William Shakespeare.
+1,1,Zero Context,0,What is the chemical symbol for water?,2.95823335647583,1,The chemical symbol for water is H2O.
+1,1,Zero Context,0,In which year did the Titanic sink?,4.342168569564819,1,"The Titanic sank on April 15, 1912."
+1,1,Zero Context,0,What planet is known as the Red Planet?,3.0105714797973633,1,The planet known as the Red Planet is Mars.
+1,1,Zero Context,0,Who painted the Mona Lisa?,3.1087493896484375,1,The Mona Lisa was painted by Leonardo da Vinci.
+1,1,Zero Context,0,What is the tallest mountain in the world?,38.302241802215576,1,"The tallest mountain in the world is Mount Everest, which rises to an elevation of 8,848 meters (29,031 feet) above sea level. Located in the Mahalangur Himal sub-range of the Himalayas, it straddles the border between Nepal and Tibet (China). Mount Everest was first surveyed by the Great Trigonometric Survey of India in 1856, and its height has been confirmed through various surveys and measurements over the years. The mountain's height is constantly changing due to the ongoing collision of the Indian and Eurasian tectonic plates, which is causing the Himalayan range to grow taller over time."
+1,1,Zero Context,0,What is the main ingredient in guacamole?,3.555999279022217,1,The main ingredient in guacamole is avocados.
+1,1,Zero Context,0,How many continents are there?,6.237458229064941,1,"There are seven continents: Africa, Antarctica, Asia, Australia, North America, South America, and Europe."
+1,1,Zero Context,0,Who was the first person to walk on the moon?,16.752764463424683,1,"The first person to walk on the moon was Neil Armstrong. He accomplished this feat on July 20, 1969, as part of NASA's Apollo 11 mission. Armstrong famously stated, ""That's one small step for [a] man, one giant leap for mankind."""
+1,1,Zero Context,0,What is the currency of Japan?,3.541534185409546,1,The currency of Japan is the Japanese yen (JPY).
+1,1,Zero Context,0,What is the hardest natural substance on Earth?,27.985523223876953,1,"The hardest natural substance on Earth is diamond. Diamonds are formed under high pressure and temperature deep within the Earth, typically over millions of years. They are composed of carbon atoms arranged in a crystal lattice structure that gives them exceptional hardness.
+
+Diamonds are used in various applications due to their hardness, including cutting tools, drilling equipment, and in the manufacturing of semiconductors. Their unique properties make them valuable not only in industrial applications but also in jewelry, where they are prized for their beauty and rarity."
+1,1,Zero Context,0,Which ocean is the largest?,24.072195768356323,1,"The largest ocean is the Pacific Ocean. It covers an area of about 63.1 million square miles (164.2 million square kilometers) and contains about 50% of the world's oceans. The Pacific Ocean is also the deepest, with the deepest point being the Mariana Trench, which reaches a depth of over 36,000 feet (11,000 meters)."
+1,1,Zero Context,0,Who invented the telephone?,6.605260848999023,1,The telephone was invented by Alexander Graham Bell. He received a patent for his invention in 1876.
+1,1,Zero Context,0,What is the square root of 64?,3.364971876144409,1,The square root of 64 is 8.
+1,1,Zero Context,0,Which country is famous for its pyramids?,16.485296964645386,1,"The country famous for its pyramids is Egypt. The most well-known pyramid is the Great Pyramid of Giza, which is also one of the Seven Wonders of the Ancient World. It was built as a tomb for Pharaoh Khufu and is located just outside the city of Cairo."
+1,1,Zero Context,0,What is the primary language spoken in Brazil?,2.741544246673584,1,The primary language spoken in Brazil is Portuguese.
+1,1,Zero Context,0,Who discovered penicillin?,4.372643709182739,1,Penicillin was discovered by Alexander Fleming in 1928.
+1,1,Zero Context,0,What is the boiling point of water at sea level?,8.292609453201294,1,The boiling point of water at sea level is 100 degrees Celsius (212 degrees Fahrenheit) or 373 Kelvin.
+1,1,Zero Context,0,Which artist cut off his own ear?,24.074460983276367,1,"The artist who famously cut off his own ear was Vincent van Gogh. He did this in 1888, and it happened at a time when he was dealing with mental health issues. Van Gogh's self-inflicted injury is often linked to his troubled state of mind. Despite the tragedy, his passion for art continued, and he created many famous paintings such as ""The Starry Night"" and ""Sunflowers""."
+1,1,Zero Context,0,What is the largest animal in the world?,34.62679886817932,1,"The largest animal in the world is the blue whale (Balaenoptera musculus). These magnificent creatures can grow up to 100 feet (30 meters) in length and weigh as much as 200 tons. They are filter feeders, primarily feeding on krill, small shrimp-like crustaceans, and plankton. Blue whales are found in all of the world's oceans and are known for their distinctive song, which can be heard over great distances underwater. Despite their size, blue whales are considered endangered due to historical whaling activities and other threats such as pollution and climate change."
+1,1,Zero Context,0,In what country would you find the Eiffel Tower?,5.99317193031311,1,"The Eiffel Tower is located in France. Specifically, it is in the capital city of Paris."
+1,1,Zero Context,0,What is the name of the galaxy we live in?,3.8994979858398438,1,The name of the galaxy we live in is the Milky Way.
+1,1,Zero Context,0,How many sides does a triangle have?,1.9744889736175537,1,A triangle has three sides.
+1,1,Zero Context,0,Who is the author of the Harry Potter series?,3.8165016174316406,1,The author of the Harry Potter series is J.K. Rowling.
+1,2,Zero Context,0,What is the capital of France?,0.5825650691986084,1,Paris
+1,2,Zero Context,0,Who wrote 'Hamlet'?,3.038322925567627,1,'Hamlet' was written by William Shakespeare.
+1,2,Zero Context,0,What is the chemical symbol for water?,3.0196824073791504,1,The chemical symbol for water is H2O.
+1,2,Zero Context,0,In which year did the Titanic sink?,4.37921667098999,1,"The Titanic sank on April 15, 1912."
+1,2,Zero Context,0,What planet is known as the Red Planet?,3.0154941082000732,1,The planet known as the Red Planet is Mars.
+1,2,Zero Context,0,Who painted the Mona Lisa?,3.0657269954681396,1,The Mona Lisa was painted by Leonardo da Vinci.
+1,2,Zero Context,0,What is the tallest mountain in the world?,37.65608191490173,1,"The tallest mountain in the world is Mount Everest, which rises to an elevation of 8,848 meters (29,031 feet) above sea level. Located in the Mahalangur Himal sub-range of the Himalayas, it straddles the border between Nepal and Tibet (China). Mount Everest was first surveyed by the Great Trigonometric Survey of India in 1856, and its height has been confirmed through various surveys and measurements over the years. The mountain's height is constantly changing due to the ongoing collision of the Indian and Eurasian tectonic plates, which is causing the Himalayan range to grow taller over time."
+1,2,Zero Context,0,What is the main ingredient in guacamole?,3.572004795074463,1,The main ingredient in guacamole is avocados.
+1,2,Zero Context,0,How many continents are there?,6.329757452011108,1,"There are seven continents: Africa, Antarctica, Asia, Australia, North America, South America, and Europe."
+1,2,Zero Context,0,Who was the first person to walk on the moon?,17.181344509124756,1,"The first person to walk on the moon was Neil Armstrong. He accomplished this feat on July 20, 1969, as part of NASA's Apollo 11 mission. Armstrong famously stated, ""That's one small step for [a] man, one giant leap for mankind."""
+1,2,Zero Context,0,What is the currency of Japan?,3.5781350135803223,1,The currency of Japan is the Japanese yen (JPY).
+1,2,Zero Context,0,What is the hardest natural substance on Earth?,28.252761363983154,1,"The hardest natural substance on Earth is diamond. Diamonds are formed under high pressure and temperature deep within the Earth, typically over millions of years. They are composed of carbon atoms arranged in a crystal lattice structure that gives them exceptional hardness.
+
+Diamonds are used in various applications due to their hardness, including cutting tools, drilling equipment, and in the manufacturing of semiconductors. Their unique properties make them valuable not only in industrial applications but also in jewelry, where they are prized for their beauty and rarity."
+1,2,Zero Context,0,Which ocean is the largest?,24.26927614212036,1,"The largest ocean is the Pacific Ocean. It covers an area of about 63.1 million square miles (164.2 million square kilometers) and contains about 50% of the world's oceans. The Pacific Ocean is also the deepest, with the deepest point being the Mariana Trench, which reaches a depth of over 36,000 feet (11,000 meters)."
+1,2,Zero Context,0,Who invented the telephone?,6.566291809082031,1,The telephone was invented by Alexander Graham Bell. He received a patent for his invention in 1876.
+1,2,Zero Context,0,What is the square root of 64?,3.289376974105835,1,The square root of 64 is 8.
+1,2,Zero Context,0,Which country is famous for its pyramids?,16.396835565567017,1,"The country famous for its pyramids is Egypt. The most well-known pyramid is the Great Pyramid of Giza, which is also one of the Seven Wonders of the Ancient World. It was built as a tomb for Pharaoh Khufu and is located just outside the city of Cairo."
+1,2,Zero Context,0,What is the primary language spoken in Brazil?,2.7433643341064453,1,The primary language spoken in Brazil is Portuguese.
+1,2,Zero Context,0,Who discovered penicillin?,4.395164966583252,1,Penicillin was discovered by Alexander Fleming in 1928.
+1,2,Zero Context,0,What is the boiling point of water at sea level?,8.22892951965332,1,The boiling point of water at sea level is 100 degrees Celsius (212 degrees Fahrenheit) or 373 Kelvin.
+1,2,Zero Context,0,Which artist cut off his own ear?,20.32446050643921,1,"The artist who famously cut off his own ear was Vincent van Gogh. He did this in 1888, and it happened at a time when he was dealing with mental health issues. Van Gogh's self-inflicted injury is often linked to his troubled state of mind. Despite the tragedy, his artwork continues to be highly valued and recognized worldwide."
+1,2,Zero Context,0,What is the largest animal in the world?,34.644633293151855,1,"The largest animal in the world is the blue whale (Balaenoptera musculus). These magnificent creatures can grow up to 100 feet (30 meters) in length and weigh as much as 200 tons. They are filter feeders, primarily feeding on krill, small shrimp-like crustaceans, and plankton. Blue whales are found in all of the world's oceans and are known for their distinctive song, which can be heard over great distances underwater. Despite their size, blue whales are considered endangered due to historical whaling activities and other threats such as pollution and climate change."
+1,2,Zero Context,0,In what country would you find the Eiffel Tower?,6.040626287460327,1,"The Eiffel Tower is located in France. Specifically, it is in the capital city of Paris."
+1,2,Zero Context,0,What is the name of the galaxy we live in?,3.84287166595459,1,The name of the galaxy we live in is the Milky Way.
+1,2,Zero Context,0,How many sides does a triangle have?,1.926727056503296,1,A triangle has three sides.
+1,2,Zero Context,0,Who is the author of the Harry Potter series?,3.8345794677734375,1,The author of the Harry Potter series is J.K. Rowling.
+1,3,Zero Context,0,What is the capital of France?,0.5519542694091797,1,Paris
+1,3,Zero Context,0,Who wrote 'Hamlet'?,3.018658399581909,1,'Hamlet' was written by William Shakespeare.
+1,3,Zero Context,0,What is the chemical symbol for water?,3.0332205295562744,1,The chemical symbol for water is H2O.
+1,3,Zero Context,0,In which year did the Titanic sink?,4.389085531234741,1,"The Titanic sank on April 15, 1912."
+1,3,Zero Context,0,What planet is known as the Red Planet?,3.023214817047119,1,The planet known as the Red Planet is Mars.
+1,3,Zero Context,0,Who painted the Mona Lisa?,3.024341106414795,1,The Mona Lisa was painted by Leonardo da Vinci.
+1,3,Zero Context,0,What is the tallest mountain in the world?,37.822463274002075,1,"The tallest mountain in the world is Mount Everest, which rises to an elevation of 8,848 meters (29,031 feet) above sea level. Located in the Mahalangur Himal sub-range of the Himalayas, it straddles the border between Nepal and Tibet (China). Mount Everest was first surveyed by the Great Trigonometric Survey of India in 1856, and its height has been confirmed through various surveys and measurements over the years. The mountain's height is constantly changing due to the ongoing collision of the Indian and Eurasian tectonic plates, which is causing the Himalayan range to grow taller over time."
+1,3,Zero Context,0,What is the main ingredient in guacamole?,3.559905529022217,1,The main ingredient in guacamole is avocados.
+1,3,Zero Context,0,How many continents are there?,6.3145530223846436,1,"There are seven continents: Africa, Antarctica, Asia, Australia, North America, South America, and Europe."
+1,3,Zero Context,0,Who was the first person to walk on the moon?,17.0508930683136,1,"The first person to walk on the moon was Neil Armstrong. He accomplished this feat on July 20, 1969, as part of NASA's Apollo 11 mission. Armstrong famously stated, ""That's one small step for [a] man, one giant leap for mankind."""
+1,3,Zero Context,0,What is the currency of Japan?,3.5691912174224854,1,The currency of Japan is the Japanese yen (JPY).
+1,3,Zero Context,0,What is the hardest natural substance on Earth?,28.068734169006348,1,"The hardest natural substance on Earth is diamond. Diamonds are formed under high pressure and temperature deep within the Earth, typically over millions of years. They are composed of carbon atoms arranged in a crystal lattice structure that gives them exceptional hardness.
+
+Diamonds are used in various applications due to their hardness, including cutting tools, drilling equipment, and in the manufacturing of semiconductors. Their unique properties make them valuable not only in industrial applications but also in jewelry, where they are prized for their beauty and rarity."
+1,3,Zero Context,0,Which ocean is the largest?,24.191671133041382,1,"The largest ocean is the Pacific Ocean. It covers an area of about 63.1 million square miles (164.2 million square kilometers) and contains about 50% of the world's oceans. The Pacific Ocean is also the deepest, with the deepest point being the Mariana Trench, which reaches a depth of over 36,000 feet (11,000 meters)."
+1,3,Zero Context,0,Who invented the telephone?,6.660601615905762,1,The telephone was invented by Alexander Graham Bell. He received a patent for his invention in 1876.
+1,3,Zero Context,0,What is the square root of 64?,3.2875707149505615,1,The square root of 64 is 8.
+1,3,Zero Context,0,Which country is famous for its pyramids?,16.545130968093872,1,"The country famous for its pyramids is Egypt. The most well-known pyramid is the Great Pyramid of Giza, which is also one of the Seven Wonders of the Ancient World. It was built as a tomb for Pharaoh Khufu and is located just outside the city of Cairo."
+1,3,Zero Context,0,What is the primary language spoken in Brazil?,2.7392799854278564,1,The primary language spoken in Brazil is Portuguese.
+1,3,Zero Context,0,Who discovered penicillin?,4.389407396316528,1,Penicillin was discovered by Alexander Fleming in 1928.
+1,3,Zero Context,0,What is the boiling point of water at sea level?,8.301424503326416,1,The boiling point of water at sea level is 100 degrees Celsius (212 degrees Fahrenheit) or 373 Kelvin.
+1,3,Zero Context,0,Which artist cut off his own ear?,20.285553216934204,1,"The artist who famously cut off his own ear was Vincent van Gogh. He did this in 1888, and it happened at a time when he was dealing with mental health issues. Van Gogh's self-inflicted injury is often linked to his troubled state of mind. Despite the tragedy, his artwork continues to be highly valued and recognized worldwide."
+1,3,Zero Context,0,What is the largest animal in the world?,34.559633016586304,1,"The largest animal in the world is the blue whale (Balaenoptera musculus). These magnificent creatures can grow up to 100 feet (30 meters) in length and weigh as much as 200 tons. They are filter feeders, primarily feeding on krill, small shrimp-like crustaceans, and plankton. Blue whales are found in all of the world's oceans and are known for their distinctive song, which can be heard over great distances underwater. Despite their size, blue whales are considered endangered due to historical whaling activities and other threats such as pollution and climate change."
+1,3,Zero Context,0,In what country would you find the Eiffel Tower?,6.105099201202393,1,"The Eiffel Tower is located in France. Specifically, it is in the capital city of Paris."
+1,3,Zero Context,0,What is the name of the galaxy we live in?,3.8411526679992676,1,The name of the galaxy we live in is the Milky Way.
+1,3,Zero Context,0,How many sides does a triangle have?,1.9237253665924072,1,A triangle has three sides.
+1,3,Zero Context,0,Who is the author of the Harry Potter series?,3.8438949584960938,1,The author of the Harry Potter series is J.K. Rowling.
+1,1,Full Context,1000,What is the capital of France?,2.932569980621338,1,The capital of France is Paris.
+1,1,Full Context,1000,Who wrote 'Hamlet'?,2.32391619682312,1,William Shakespeare wrote 'Hamlet'.
+1,1,Full Context,1000,What is the chemical symbol for water?,3.1973254680633545,0,The chemical symbol for water is H₂O.
+1,1,Full Context,1000,In which year did the Titanic sink?,3.218458414077759,1,The Titanic sank in 1912.
+1,1,Full Context,1000,What planet is known as the Red Planet?,3.224998712539673,1,The planet known as the Red Planet is Mars.
+1,1,Full Context,1000,Who painted the Mona Lisa?,3.2144627571105957,1,The Mona Lisa was painted by Leonardo da Vinci.
+1,1,Full Context,1000,What is the tallest mountain in the world?,19.00216293334961,1,"The tallest mountain in the world is Mount Everest, which rises to a height of 8,848 meters (29,029 feet) above sea level. Located in the Mahalangur Himal sub-range of the Himalayas, it straddles the border between Nepal and Tibet (China)."
+1,1,Full Context,1000,What is the main ingredient in guacamole?,0.875856876373291,1,Avocado
+1,1,Full Context,1000,How many continents are there?,6.7197887897491455,1,"There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+1,1,Full Context,1000,Who was the first person to walk on the moon?,11.676419496536255,1,"The first person to walk on the moon was Neil Armstrong. He accomplished this feat on July 20, 1969, as part of NASA's Apollo 11 mission."
+1,1,Full Context,1000,What is the currency of Japan?,2.924670696258545,1,The currency of Japan is the Japanese yen.
+1,1,Full Context,1000,What is the hardest natural substance on Earth?,15.778419971466064,1,"The hardest natural substance on Earth is diamond. Diamonds are formed deep within the Earth under high pressure and temperature conditions, primarily from carbon. They are known for their exceptional hardness, which makes them valuable for use in cutting and drilling tools, as well as in jewelry."
+1,1,Full Context,1000,Which ocean is the largest?,2.6320111751556396,1,The largest ocean is the Pacific Ocean.
+1,1,Full Context,1000,Who invented the telephone?,2.3498215675354004,1,Alexander Graham Bell invented the telephone.
+1,1,Full Context,1000,What is the square root of 64?,3.498898983001709,1,The square root of 64 is 8.
+1,1,Full Context,1000,Which country is famous for its pyramids?,0.5845358371734619,1,Egypt
+1,1,Full Context,1000,What is the primary language spoken in Brazil?,2.925614356994629,1,The primary language spoken in Brazil is Portuguese.
+1,1,Full Context,1000,Who discovered penicillin?,2.936697483062744,1,Penicillin was discovered by Alexander Fleming.
+1,1,Full Context,1000,What is the boiling point of water at sea level?,6.705201625823975,1,The boiling point of water at sea level is 100 degrees Celsius (212 degrees Fahrenheit).
+1,1,Full Context,1000,Which artist cut off his own ear?,4.679102420806885,1,The artist who famously cut off his own ear was Vincent van Gogh.
+1,1,Full Context,1000,What is the largest animal in the world?,3.4992125034332275,1,The largest animal in the world is the blue whale.
+1,1,Full Context,1000,In what country would you find the Eiffel Tower?,3.2313590049743652,1,The Eiffel Tower is located in France.
+1,1,Full Context,1000,What is the name of the galaxy we live in?,4.051877498626709,1,The name of the galaxy we live in is the Milky Way.
+1,1,Full Context,1000,How many sides does a triangle have?,2.0536766052246094,1,A triangle has three sides.
+1,1,Full Context,1000,Who is the author of the Harry Potter series?,4.101402759552002,1,The author of the Harry Potter series is J.K. Rowling.
+1,2,Full Context,1000,What is the capital of France?,2.3231375217437744,1,The capital of France is Paris.
+1,2,Full Context,1000,Who wrote 'Hamlet'?,2.332643508911133,1,William Shakespeare wrote 'Hamlet'.
+1,2,Full Context,1000,What is the chemical symbol for water?,3.2199456691741943,0,The chemical symbol for water is H₂O.
+1,2,Full Context,1000,In which year did the Titanic sink?,3.225768804550171,1,The Titanic sank in 1912.
+1,2,Full Context,1000,What planet is known as the Red Planet?,3.2263898849487305,1,The planet known as the Red Planet is Mars.
+1,2,Full Context,1000,Who painted the Mona Lisa?,3.2155263423919678,1,The Mona Lisa was painted by Leonardo da Vinci.
+1,2,Full Context,1000,What is the tallest mountain in the world?,18.98998212814331,1,"The tallest mountain in the world is Mount Everest, which rises to a height of 8,848 meters (29,029 feet) above sea level. Located in the Mahalangur Himal sub-range of the Himalayas, it straddles the border between Nepal and Tibet (China)."
+1,2,Full Context,1000,What is the main ingredient in guacamole?,0.8687279224395752,1,Avocado
+1,2,Full Context,1000,How many continents are there?,6.738744497299194,1,"There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+1,2,Full Context,1000,Who was the first person to walk on the moon?,11.725268840789795,1,"The first person to walk on the moon was Neil Armstrong. He accomplished this feat on July 20, 1969, as part of NASA's Apollo 11 mission."
+1,2,Full Context,1000,What is the currency of Japan?,2.9114699363708496,1,The currency of Japan is the Japanese yen.
+1,2,Full Context,1000,What is the hardest natural substance on Earth?,15.771806716918945,1,"The hardest natural substance on Earth is diamond. Diamonds are formed deep within the Earth under high pressure and temperature conditions, primarily from carbon. They are known for their exceptional hardness, which makes them valuable for use in cutting and drilling tools, as well as in jewelry."
+1,2,Full Context,1000,Which ocean is the largest?,2.630946636199951,1,The largest ocean is the Pacific Ocean.
+1,2,Full Context,1000,Who invented the telephone?,2.350851058959961,1,Alexander Graham Bell invented the telephone.
+1,2,Full Context,1000,What is the square root of 64?,3.505366325378418,1,The square root of 64 is 8.
+1,2,Full Context,1000,Which country is famous for its pyramids?,0.5873279571533203,1,Egypt
+1,2,Full Context,1000,What is the primary language spoken in Brazil?,2.9050636291503906,1,The primary language spoken in Brazil is Portuguese.
+1,2,Full Context,1000,Who discovered penicillin?,2.9262852668762207,1,Penicillin was discovered by Alexander Fleming.
+1,2,Full Context,1000,What is the boiling point of water at sea level?,6.683453559875488,1,The boiling point of water at sea level is 100 degrees Celsius (212 degrees Fahrenheit).
+1,2,Full Context,1000,Which artist cut off his own ear?,4.691509485244751,1,The artist who famously cut off his own ear was Vincent van Gogh.
+1,2,Full Context,1000,What is the largest animal in the world?,3.5096046924591064,1,The largest animal in the world is the blue whale.
+1,2,Full Context,1000,In what country would you find the Eiffel Tower?,3.2276434898376465,1,The Eiffel Tower is located in France.
+1,2,Full Context,1000,What is the name of the galaxy we live in?,4.093634366989136,1,The name of the galaxy we live in is the Milky Way.
+1,2,Full Context,1000,How many sides does a triangle have?,2.050330400466919,1,A triangle has three sides.
+1,2,Full Context,1000,Who is the author of the Harry Potter series?,4.105841159820557,1,The author of the Harry Potter series is J.K. Rowling.
+1,3,Full Context,1000,What is the capital of France?,2.3151185512542725,1,The capital of France is Paris.
+1,3,Full Context,1000,Who wrote 'Hamlet'?,2.3362691402435303,1,William Shakespeare wrote 'Hamlet'.
+1,3,Full Context,1000,What is the chemical symbol for water?,3.2072391510009766,0,The chemical symbol for water is H₂O.
+1,3,Full Context,1000,In which year did the Titanic sink?,3.2156054973602295,1,The Titanic sank in 1912.
+1,3,Full Context,1000,What planet is known as the Red Planet?,3.228712558746338,1,The planet known as the Red Planet is Mars.
+1,3,Full Context,1000,Who painted the Mona Lisa?,3.230487108230591,1,The Mona Lisa was painted by Leonardo da Vinci.
+1,3,Full Context,1000,What is the tallest mountain in the world?,18.99887728691101,1,"The tallest mountain in the world is Mount Everest, which rises to a height of 8,848 meters (29,029 feet) above sea level. Located in the Mahalangur Himal sub-range of the Himalayas, it straddles the border between Nepal and Tibet (China)."
+1,3,Full Context,1000,What is the main ingredient in guacamole?,0.87579345703125,1,Avocado
+1,3,Full Context,1000,How many continents are there?,6.736665725708008,1,"There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+1,3,Full Context,1000,Who was the first person to walk on the moon?,11.70481562614441,1,"The first person to walk on the moon was Neil Armstrong. He accomplished this feat on July 20, 1969, as part of NASA's Apollo 11 mission."
+1,3,Full Context,1000,What is the currency of Japan?,2.9237301349639893,1,The currency of Japan is the Japanese yen.
+1,3,Full Context,1000,What is the hardest natural substance on Earth?,15.743764162063599,1,"The hardest natural substance on Earth is diamond. Diamonds are formed deep within the Earth under high pressure and temperature conditions, primarily from carbon. They are known for their exceptional hardness, which makes them valuable for use in cutting and drilling tools, as well as in jewelry."
+1,3,Full Context,1000,Which ocean is the largest?,2.6320807933807373,1,The largest ocean is the Pacific Ocean.
+1,3,Full Context,1000,Who invented the telephone?,2.338167428970337,1,Alexander Graham Bell invented the telephone.
+1,3,Full Context,1000,What is the square root of 64?,3.4892349243164062,1,The square root of 64 is 8.
+1,3,Full Context,1000,Which country is famous for its pyramids?,0.5782008171081543,1,Egypt
+1,3,Full Context,1000,What is the primary language spoken in Brazil?,2.923731565475464,1,The primary language spoken in Brazil is Portuguese.
+1,3,Full Context,1000,Who discovered penicillin?,2.9338905811309814,1,Penicillin was discovered by Alexander Fleming.
+1,3,Full Context,1000,What is the boiling point of water at sea level?,6.702582120895386,1,The boiling point of water at sea level is 100 degrees Celsius (212 degrees Fahrenheit).
+1,3,Full Context,1000,Which artist cut off his own ear?,4.698582410812378,1,The artist who famously cut off his own ear was Vincent van Gogh.
+1,3,Full Context,1000,What is the largest animal in the world?,3.4910624027252197,1,The largest animal in the world is the blue whale.
+1,3,Full Context,1000,In what country would you find the Eiffel Tower?,3.213618516921997,1,The Eiffel Tower is located in France.
+1,3,Full Context,1000,What is the name of the galaxy we live in?,4.083204984664917,1,The name of the galaxy we live in is the Milky Way.
+1,3,Full Context,1000,How many sides does a triangle have?,2.058120012283325,1,A triangle has three sides.
+1,3,Full Context,1000,Who is the author of the Harry Potter series?,4.09432578086853,1,The author of the Harry Potter series is J.K. Rowling.
+1,1,Full Context,4000,What is the capital of France?,8.657305717468262,1,The capital of France is Paris.
+1,1,Full Context,4000,Who wrote 'Hamlet'?,9.039581298828125,1,"The reference provided does not contain information about who wrote 'Hamlet'. However, 'Hamlet' was written by William Shakespeare."
+1,1,Full Context,4000,What is the chemical symbol for water?,3.7007007598876953,0,The chemical symbol for water is H₂O.
+1,1,Full Context,4000,In which year did the Titanic sink?,3.7524750232696533,1,The Titanic sank in 1912.
+1,1,Full Context,4000,What planet is known as the Red Planet?,3.7547781467437744,1,The planet known as the Red Planet is Mars.
+1,1,Full Context,4000,Who painted the Mona Lisa?,3.755204916000366,1,The Mona Lisa was painted by Leonardo da Vinci.
+1,1,Full Context,4000,What is the tallest mountain in the world?,24.313156843185425,1,"The tallest mountain in the world is Mount Everest, which rises to an elevation of 8,848 meters (29,029 feet) above sea level. Located in the Mahalangur Himal sub-range of the Himalayas, straddling the border between Nepal and Tibet (China), Mount Everest is the highest peak on Earth."
+1,1,Full Context,4000,What is the main ingredient in guacamole?,1.0178859233856201,1,Avocado
+1,1,Full Context,4000,How many continents are there?,7.659398317337036,1,"There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+1,1,Full Context,4000,Who was the first person to walk on the moon?,23.15070104598999,1,"The first person to walk on the moon was Neil Armstrong. He accomplished this feat on July 20, 1969, as part of NASA's Apollo 11 mission. Armstrong famously stated, ""That's one small step for [a] man, one giant leap for mankind,"" upon landing on the lunar surface."
+1,1,Full Context,4000,What is the currency of Japan?,4.339080810546875,1,The currency of Japan is the Japanese yen (JPY).
+1,1,Full Context,4000,What is the hardest natural substance on Earth?,51.825804710388184,1,"The hardest natural substance on Earth is diamond. Diamonds are formed deep within the Earth under high pressure and temperature conditions, typically from carbon-bearing fluids. They are composed of carbon atoms arranged in a crystal lattice structure known as a cubic close-packed arrangement, which gives diamonds their exceptional hardness.
+
+Diamonds are valued for their beauty, rarity, and hardness, making them popular gemstones and industrial tools. Their hardness allows them to cut through other materials without being easily scratched or worn down. This property makes diamonds indispensable in various applications, including jewelry, where they are used to adorn rings, necklaces, and other pieces, and in industrial settings, where they are utilized in cutting tools, drilling equipment, and semiconductor manufacturing processes due to their ability to maintain sharp edges and resist wear."
+1,1,Full Context,4000,Which ocean is the largest?,3.005985975265503,1,The largest ocean is the Pacific Ocean.
+1,1,Full Context,4000,Who invented the telephone?,3.343242883682251,1,The telephone was invented by Alexander Graham Bell.
+1,1,Full Context,4000,What is the square root of 64?,3.999556303024292,1,The square root of 64 is 8.
+1,1,Full Context,4000,Which country is famous for its pyramids?,0.6811575889587402,1,Egypt
+1,1,Full Context,4000,What is the primary language spoken in Brazil?,3.3384010791778564,1,The primary language spoken in Brazil is Portuguese.
+1,1,Full Context,4000,Who discovered penicillin?,5.3273396492004395,1,Penicillin was discovered by Alexander Fleming in 1928.
+1,1,Full Context,4000,What is the boiling point of water at sea level?,9.323737382888794,1,The boiling point of water at sea level is 100 degrees Celsius (212 degrees Fahrenheit) under standard atmospheric pressure.
+1,1,Full Context,4000,Which artist cut off his own ear?,5.343536615371704,1,The artist who famously cut off his own ear was Vincent van Gogh.
+1,1,Full Context,4000,What is the largest animal in the world?,44.09395742416382,1,"The largest animal in the world is the blue whale (Balaenoptera musculus). As an adult, it can grow up to 100 feet (30 meters) in length and weigh between 200,000 to 300,000 kilograms (440,000 to 660,000 pounds). Blue whales are filter feeders, primarily feeding on krill, small shrimp-like crustaceans, and small fish. They are found in all major oceans across the globe and are known for their distinctive song, which can be heard over great distances underwater."
+1,1,Full Context,4000,In what country would you find the Eiffel Tower?,3.6743414402008057,1,The Eiffel Tower is located in France.
+1,1,Full Context,4000,What is the name of the galaxy we live in?,4.671334266662598,1,The name of the galaxy we live in is the Milky Way.
+1,1,Full Context,4000,How many sides does a triangle have?,2.3416011333465576,1,A triangle has three sides.
+1,1,Full Context,4000,Who is the author of the Harry Potter series?,4.668856382369995,1,The author of the Harry Potter series is J.K. Rowling.
+1,2,Full Context,4000,What is the capital of France?,2.670088291168213,1,The capital of France is Paris.
+1,2,Full Context,4000,Who wrote 'Hamlet'?,9.028197765350342,1,"The reference provided does not contain information about who wrote 'Hamlet'. However, 'Hamlet' was written by William Shakespeare."
+1,2,Full Context,4000,What is the chemical symbol for water?,3.6843159198760986,0,The chemical symbol for water is H₂O.
+1,2,Full Context,4000,In which year did the Titanic sink?,3.739266872406006,1,The Titanic sank in 1912.
+1,2,Full Context,4000,What planet is known as the Red Planet?,3.6836719512939453,1,The planet known as the Red Planet is Mars.
+1,2,Full Context,4000,Who painted the Mona Lisa?,3.6856541633605957,1,The Mona Lisa was painted by Leonardo da Vinci.
+1,2,Full Context,4000,What is the tallest mountain in the world?,24.42512845993042,1,"The tallest mountain in the world is Mount Everest, which rises to an elevation of 8,848 meters (29,029 feet) above sea level. Located in the Mahalangur Himal sub-range of the Himalayas, straddling the border between Nepal and Tibet (China), Mount Everest is the highest peak on Earth."
+1,2,Full Context,4000,What is the main ingredient in guacamole?,1.0235779285430908,1,Avocado
+1,2,Full Context,4000,How many continents are there?,7.690068960189819,1,"There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+1,2,Full Context,4000,Who was the first person to walk on the moon?,23.07127285003662,1,"The first person to walk on the moon was Neil Armstrong. He accomplished this feat on July 20, 1969, as part of NASA's Apollo 11 mission. Armstrong famously stated, ""That's one small step for [a] man, one giant leap for mankind,"" upon landing on the lunar surface."
+1,2,Full Context,4000,What is the currency of Japan?,4.407231330871582,1,The currency of Japan is the Japanese yen (JPY).
+1,2,Full Context,4000,What is the hardest natural substance on Earth?,41.66306495666504,1,"The hardest natural substance on Earth is diamond. Diamonds are formed deep within the Earth under high pressure and temperature conditions, typically from carbon-bearing fluids. They are composed of carbon atoms arranged in a crystal lattice structure known as a cubic close-packed arrangement, which gives diamonds their exceptional hardness.
+
+Diamonds are valued for their beauty, rarity, and hardness, making them popular gemstones and valuable materials in various industries such as cutting tools, abrasives, and optical lenses. Their hardness allows them to cut through other materials without being easily scratched or worn down, which is why they are used in applications requiring extreme durability and precision."
+1,2,Full Context,4000,Which ocean is the largest?,3.012601375579834,1,The largest ocean is the Pacific Ocean.
+1,2,Full Context,4000,Who invented the telephone?,3.407658100128174,1,The telephone was invented by Alexander Graham Bell.
+1,2,Full Context,4000,What is the square root of 64?,4.038164377212524,1,The square root of 64 is 8.
+1,2,Full Context,4000,Which country is famous for its pyramids?,0.679358959197998,1,Egypt
+1,2,Full Context,4000,What is the primary language spoken in Brazil?,3.347827434539795,1,The primary language spoken in Brazil is Portuguese.
+1,2,Full Context,4000,Who discovered penicillin?,5.358922004699707,1,Penicillin was discovered by Alexander Fleming in 1928.
+1,2,Full Context,4000,What is the boiling point of water at sea level?,9.376649379730225,1,The boiling point of water at sea level is 100 degrees Celsius (212 degrees Fahrenheit) under standard atmospheric pressure.
+1,2,Full Context,4000,Which artist cut off his own ear?,5.345834732055664,1,The artist who famously cut off his own ear was Vincent van Gogh.
+1,2,Full Context,4000,What is the largest animal in the world?,44.18281030654907,1,"The largest animal in the world is the blue whale (Balaenoptera musculus). As an adult, it can grow up to 100 feet (30 meters) in length and weigh between 200,000 to 300,000 kilograms (440,000 to 660,000 pounds). Blue whales are filter feeders, primarily feeding on krill, small shrimp-like crustaceans, and small fish. They are found in all major oceans across the globe and are known for their distinctive song, which can be heard over great distances underwater."
+1,2,Full Context,4000,In what country would you find the Eiffel Tower?,3.6828765869140625,1,The Eiffel Tower is located in France.
+1,2,Full Context,4000,What is the name of the galaxy we live in?,4.698160409927368,1,The name of the galaxy we live in is the Milky Way.
+1,2,Full Context,4000,How many sides does a triangle have?,2.3473823070526123,1,A triangle has three sides.
+1,2,Full Context,4000,Who is the author of the Harry Potter series?,4.698747634887695,1,The author of the Harry Potter series is J.K. Rowling.
+1,3,Full Context,4000,What is the capital of France?,2.6744384765625,1,The capital of France is Paris.
+1,3,Full Context,4000,Who wrote 'Hamlet'?,9.04241394996643,1,"The reference provided does not contain information about who wrote 'Hamlet'. However, 'Hamlet' was written by William Shakespeare."
+1,3,Full Context,4000,What is the chemical symbol for water?,3.695232629776001,0,The chemical symbol for water is H₂O.
+1,3,Full Context,4000,In which year did the Titanic sink?,3.6758217811584473,1,The Titanic sank in 1912.
+1,3,Full Context,4000,What planet is known as the Red Planet?,3.6868035793304443,1,The planet known as the Red Planet is Mars.
+1,3,Full Context,4000,Who painted the Mona Lisa?,3.7076144218444824,1,The Mona Lisa was painted by Leonardo da Vinci.
+1,3,Full Context,4000,What is the tallest mountain in the world?,24.417604446411133,1,"The tallest mountain in the world is Mount Everest, which rises to an elevation of 8,848 meters (29,029 feet) above sea level. Located in the Mahalangur Himal sub-range of the Himalayas, straddling the border between Nepal and Tibet (China), Mount Everest is the highest peak on Earth."
+1,3,Full Context,4000,What is the main ingredient in guacamole?,1.0222010612487793,1,Avocado
+1,3,Full Context,4000,How many continents are there?,7.710622787475586,1,"There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+1,3,Full Context,4000,Who was the first person to walk on the moon?,23.095267057418823,1,"The first person to walk on the moon was Neil Armstrong. He accomplished this feat on July 20, 1969, as part of NASA's Apollo 11 mission. Armstrong famously stated, ""That's one small step for [a] man, one giant leap for mankind,"" upon landing on the lunar surface."
+1,3,Full Context,4000,What is the currency of Japan?,4.363848924636841,1,The currency of Japan is the Japanese yen (JPY).
+1,3,Full Context,4000,What is the hardest natural substance on Earth?,52.130897760391235,1,"The hardest natural substance on Earth is diamond. Diamonds are formed deep within the Earth under high pressure and temperature conditions, typically from carbon-bearing fluids. They are composed of carbon atoms arranged in a crystal lattice structure known as a cubic close-packed arrangement, which gives diamonds their exceptional hardness.
+
+Diamonds are valued for their beauty, rarity, and hardness, making them popular gemstones and industrial tools. Their hardness allows them to cut through other materials without being easily scratched or worn down. This property makes diamonds indispensable in various applications, including jewelry, where they are used to adorn rings, necklaces, and other pieces, and in industrial settings, where they are utilized in cutting tools, drilling equipment, and semiconductor manufacturing processes due to their ability to maintain sharp edges and resist wear."
+1,3,Full Context,4000,Which ocean is the largest?,3.0191876888275146,1,The largest ocean is the Pacific Ocean.
+1,3,Full Context,4000,Who invented the telephone?,3.3301079273223877,1,The telephone was invented by Alexander Graham Bell.
+1,3,Full Context,4000,What is the square root of 64?,4.02259635925293,1,The square root of 64 is 8.
+1,3,Full Context,4000,Which country is famous for its pyramids?,0.687187671661377,1,Egypt
+1,3,Full Context,4000,What is the primary language spoken in Brazil?,3.357757329940796,1,The primary language spoken in Brazil is Portuguese.
+1,3,Full Context,4000,Who discovered penicillin?,5.36365532875061,1,Penicillin was discovered by Alexander Fleming in 1928.
+1,3,Full Context,4000,What is the boiling point of water at sea level?,9.390409231185913,1,The boiling point of water at sea level is 100 degrees Celsius (212 degrees Fahrenheit) under standard atmospheric pressure.
+1,3,Full Context,4000,Which artist cut off his own ear?,5.3717100620269775,1,The artist who famously cut off his own ear was Vincent van Gogh.
+1,3,Full Context,4000,What is the largest animal in the world?,44.38829040527344,1,"The largest animal in the world is the blue whale (Balaenoptera musculus). As an adult, it can grow up to 100 feet (30 meters) in length and weigh between 200,000 to 300,000 kilograms (440,000 to 660,000 pounds). Blue whales are filter feeders, primarily feeding on krill, small shrimp-like crustaceans, and small fish. They are found in all major oceans across the globe and are known for their distinctive song, which can be heard over great distances underwater."
+1,3,Full Context,4000,In what country would you find the Eiffel Tower?,3.7150166034698486,1,The Eiffel Tower is located in France.
+1,3,Full Context,4000,What is the name of the galaxy we live in?,4.731554985046387,1,The name of the galaxy we live in is the Milky Way.
+1,3,Full Context,4000,How many sides does a triangle have?,2.3752264976501465,1,A triangle has three sides.
+1,3,Full Context,4000,Who is the author of the Harry Potter series?,4.711998701095581,1,The author of the Harry Potter series is J.K. Rowling.
+1,1,Full Context,2000,What is the capital of France?,2.4884462356567383,1,The capital of France is Paris.
+1,1,Full Context,2000,Who wrote 'Hamlet'?,2.4635684490203857,1,William Shakespeare wrote 'Hamlet'.
+1,1,Full Context,2000,What is the chemical symbol for water?,3.3527443408966064,0,The chemical symbol for water is H₂O.
+1,1,Full Context,2000,In which year did the Titanic sink?,3.3330509662628174,1,The Titanic sank in 1912.
+1,1,Full Context,2000,What planet is known as the Red Planet?,3.348219394683838,1,The planet known as the Red Planet is Mars.
+1,1,Full Context,2000,Who painted the Mona Lisa?,3.357842206954956,1,The Mona Lisa was painted by Leonardo da Vinci.
+1,1,Full Context,2000,What is the tallest mountain in the world?,20.01337170600891,1,"The tallest mountain in the world is Mount Everest, which rises to a height of approximately 29,031 feet (8,848 meters) above sea level. Located in the Mahalangur Himal sub-range of the Himalayas, it straddles the border between Nepal and Tibet (China)."
+1,1,Full Context,2000,What is the main ingredient in guacamole?,0.9313490390777588,1,Avocado
+1,1,Full Context,2000,How many continents are there?,6.9827282428741455,1,"There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+1,1,Full Context,2000,Who was the first person to walk on the moon?,12.129036903381348,1,"The first person to walk on the moon was Neil Armstrong. He accomplished this feat on July 20, 1969, as part of NASA's Apollo 11 mission."
+1,1,Full Context,2000,What is the currency of Japan?,3.952421188354492,1,The currency of Japan is the Japanese yen (JPY).
+1,1,Full Context,2000,What is the hardest natural substance on Earth?,3.0507311820983887,1,The hardest natural substance on Earth is diamond.
+1,1,Full Context,2000,Which ocean is the largest?,2.7476463317871094,1,The largest ocean is the Pacific Ocean.
+1,1,Full Context,2000,Who invented the telephone?,2.424257755279541,1,Alexander Graham Bell invented the telephone.
+1,1,Full Context,2000,What is the square root of 64?,3.659564256668091,1,The square root of 64 is 8.
+1,1,Full Context,2000,Which country is famous for its pyramids?,0.6184577941894531,1,Egypt
+1,1,Full Context,2000,What is the primary language spoken in Brazil?,3.0494978427886963,1,The primary language spoken in Brazil is Portuguese.
+1,1,Full Context,2000,Who discovered penicillin?,3.05391526222229,1,Penicillin was discovered by Alexander Fleming.
+1,1,Full Context,2000,What is the boiling point of water at sea level?,6.964838981628418,1,The boiling point of water at sea level is 100 degrees Celsius (212 degrees Fahrenheit).
+1,1,Full Context,2000,Which artist cut off his own ear?,4.841862201690674,1,The artist who famously cut off his own ear was Vincent van Gogh.
+1,1,Full Context,2000,What is the largest animal in the world?,28.573113441467285,1,"The largest animal in the world is the blue whale (Balaenoptera musculus). Blue whales can grow up to lengths of approximately 100 feet (30 meters) and weigh between 200,000 to 300,000 kilograms (440,000 to 660,000 pounds). They are filter feeders, primarily feeding on krill and small fish."
+1,1,Full Context,2000,In what country would you find the Eiffel Tower?,3.3441808223724365,1,The Eiffel Tower is located in France.
+1,1,Full Context,2000,What is the name of the galaxy we live in?,4.249369382858276,1,The name of the galaxy we live in is the Milky Way.
+1,1,Full Context,2000,How many sides does a triangle have?,2.119419813156128,1,A triangle has three sides.
+1,1,Full Context,2000,Who is the author of the Harry Potter series?,4.255719423294067,1,The author of the Harry Potter series is J.K. Rowling.
+1,2,Full Context,2000,What is the capital of France?,2.4497556686401367,1,The capital of France is Paris.
+1,2,Full Context,2000,Who wrote 'Hamlet'?,2.4569122791290283,1,William Shakespeare wrote 'Hamlet'.
+1,2,Full Context,2000,What is the chemical symbol for water?,3.3524272441864014,0,The chemical symbol for water is H₂O.
+1,2,Full Context,2000,In which year did the Titanic sink?,3.3428854942321777,1,The Titanic sank in 1912.
+1,2,Full Context,2000,What planet is known as the Red Planet?,3.3620073795318604,1,The planet known as the Red Planet is Mars.
+1,2,Full Context,2000,Who painted the Mona Lisa?,3.368899345397949,1,The Mona Lisa was painted by Leonardo da Vinci.
+1,2,Full Context,2000,What is the tallest mountain in the world?,20.150994062423706,1,"The tallest mountain in the world is Mount Everest, which rises to a height of approximately 29,031 feet (8,848 meters) above sea level. Located in the Mahalangur Himal sub-range of the Himalayas, it straddles the border between Nepal and Tibet (China)."
+1,2,Full Context,2000,What is the main ingredient in guacamole?,0.9210433959960938,1,Avocado
+1,2,Full Context,2000,How many continents are there?,6.9819419384002686,1,"There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+1,2,Full Context,2000,Who was the first person to walk on the moon?,12.23629093170166,1,"The first person to walk on the moon was Neil Armstrong. He accomplished this feat on July 20, 1969, as part of NASA's Apollo 11 mission."
+1,2,Full Context,2000,What is the currency of Japan?,3.9814913272857666,1,The currency of Japan is the Japanese yen (JPY).
+1,2,Full Context,2000,What is the hardest natural substance on Earth?,3.053448438644409,1,The hardest natural substance on Earth is diamond.
+1,2,Full Context,2000,Which ocean is the largest?,2.748805284500122,1,The largest ocean is the Pacific Ocean.
+1,2,Full Context,2000,Who invented the telephone?,2.4304237365722656,1,Alexander Graham Bell invented the telephone.
+1,2,Full Context,2000,What is the square root of 64?,3.6459178924560547,1,The square root of 64 is 8.
+1,2,Full Context,2000,Which country is famous for its pyramids?,0.6129360198974609,1,Egypt
+1,2,Full Context,2000,What is the primary language spoken in Brazil?,3.039311170578003,1,The primary language spoken in Brazil is Portuguese.
+1,2,Full Context,2000,Who discovered penicillin?,3.0485455989837646,1,Penicillin was discovered by Alexander Fleming.
+1,2,Full Context,2000,What is the boiling point of water at sea level?,6.9709999561309814,1,The boiling point of water at sea level is 100 degrees Celsius (212 degrees Fahrenheit).
+1,2,Full Context,2000,Which artist cut off his own ear?,4.864620923995972,1,The artist who famously cut off his own ear was Vincent van Gogh.
+1,2,Full Context,2000,What is the largest animal in the world?,28.698841333389282,1,"The largest animal in the world is the blue whale (Balaenoptera musculus). Blue whales can grow up to lengths of approximately 100 feet (30 meters) and weigh between 200,000 to 300,000 kilograms (440,000 to 660,000 pounds). They are filter feeders, primarily feeding on krill and small fish."
+1,2,Full Context,2000,In what country would you find the Eiffel Tower?,3.3504273891448975,1,The Eiffel Tower is located in France.
+1,2,Full Context,2000,What is the name of the galaxy we live in?,4.259563684463501,1,The name of the galaxy we live in is the Milky Way.
+1,2,Full Context,2000,How many sides does a triangle have?,2.125736951828003,1,A triangle has three sides.
+1,2,Full Context,2000,Who is the author of the Harry Potter series?,4.248828649520874,1,The author of the Harry Potter series is J.K. Rowling.
+1,3,Full Context,2000,What is the capital of France?,2.440767765045166,1,The capital of France is Paris.
+1,3,Full Context,2000,Who wrote 'Hamlet'?,2.449199676513672,1,William Shakespeare wrote 'Hamlet'.
+1,3,Full Context,2000,What is the chemical symbol for water?,3.3524625301361084,0,The chemical symbol for water is H₂O.
+1,3,Full Context,2000,In which year did the Titanic sink?,3.350615978240967,1,The Titanic sank in 1912.
+1,3,Full Context,2000,What planet is known as the Red Planet?,3.355722665786743,1,The planet known as the Red Planet is Mars.
+1,3,Full Context,2000,Who painted the Mona Lisa?,3.352219820022583,1,The Mona Lisa was painted by Leonardo da Vinci.
+1,3,Full Context,2000,What is the tallest mountain in the world?,20.016714334487915,1,"The tallest mountain in the world is Mount Everest, which rises to a height of approximately 29,031 feet (8,848 meters) above sea level. Located in the Mahalangur Himal sub-range of the Himalayas, it straddles the border between Nepal and Tibet (China)."
+1,3,Full Context,2000,What is the main ingredient in guacamole?,0.928929328918457,1,Avocado
+1,3,Full Context,2000,How many continents are there?,7.006385326385498,1,"There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+1,3,Full Context,2000,Who was the first person to walk on the moon?,12.158749103546143,1,"The first person to walk on the moon was Neil Armstrong. He accomplished this feat on July 20, 1969, as part of NASA's Apollo 11 mission."
+1,3,Full Context,2000,What is the currency of Japan?,3.9617772102355957,1,The currency of Japan is the Japanese yen (JPY).
+1,3,Full Context,2000,What is the hardest natural substance on Earth?,3.0353076457977295,1,The hardest natural substance on Earth is diamond.
+1,3,Full Context,2000,Which ocean is the largest?,2.7397401332855225,1,The largest ocean is the Pacific Ocean.
+1,3,Full Context,2000,Who invented the telephone?,2.4443798065185547,1,Alexander Graham Bell invented the telephone.
+1,3,Full Context,2000,What is the square root of 64?,3.660148859024048,1,The square root of 64 is 8.
+1,3,Full Context,2000,Which country is famous for its pyramids?,0.6125726699829102,1,Egypt
+1,3,Full Context,2000,What is the primary language spoken in Brazil?,3.046480894088745,1,The primary language spoken in Brazil is Portuguese.
+1,3,Full Context,2000,Who discovered penicillin?,3.0441200733184814,1,Penicillin was discovered by Alexander Fleming.
+1,3,Full Context,2000,What is the boiling point of water at sea level?,7.020916223526001,1,The boiling point of water at sea level is 100 degrees Celsius (212 degrees Fahrenheit).
+1,3,Full Context,2000,Which artist cut off his own ear?,4.857295751571655,1,The artist who famously cut off his own ear was Vincent van Gogh.
+1,3,Full Context,2000,What is the largest animal in the world?,28.578462839126587,1,"The largest animal in the world is the blue whale (Balaenoptera musculus). Blue whales can grow up to lengths of approximately 100 feet (30 meters) and weigh between 200,000 to 300,000 kilograms (440,000 to 660,000 pounds). They are filter feeders, primarily feeding on krill and small fish."
+1,3,Full Context,2000,In what country would you find the Eiffel Tower?,3.367522954940796,1,The Eiffel Tower is located in France.
+1,3,Full Context,2000,What is the name of the galaxy we live in?,4.256861925125122,1,The name of the galaxy we live in is the Milky Way.
+1,3,Full Context,2000,How many sides does a triangle have?,2.12746000289917,1,A triangle has three sides.
+1,3,Full Context,2000,Who is the author of the Harry Potter series?,4.2452921867370605,1,The author of the Harry Potter series is J.K. Rowling.
