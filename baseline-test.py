@@ -15,15 +15,14 @@ from bs4 import BeautifulSoup
 # --- Configuration ---
 VLLM_URL = "http://127.0.0.1:8000/v1"
 #MODEL_ID = "meta-llama/Meta-Llama-3.1-8B-Instruct"
-#MODEL_ID = "Qwen/Qwen2-7B-Instruct"
-MODEL_ID = "Mistralai/Mistral-7B-Instruct-v0.3"
+MODEL_ID = "Qwen/Qwen2-7B-Instruct"
 HAYSTACK_URL = "http://www.paulgraham.com/cities.html"
 CONTEXT_SIZES_TO_TEST = [1000, 2000, 4000]
 # --- NEW: Configuration for the overnight run ---
 TOTAL_GRAND_RUNS = 5 # The number of times to repeat the entire experiment
 TOTAL_SUB_RUNS = 3   # The number of times to repeat the 25 questions for each setting
 #OUTPUT_CSV_PATH = "experiment_A_overnight_results_llama31.csv"
-OUTPUT_CSV_PATH = "experiment_A_overnight_results_Mistral0.3.csv"
+OUTPUT_CSV_PATH = "experiment_A_overnight_results_Qwen2.csv"
 
 console = Console()
 
