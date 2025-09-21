@@ -116,7 +116,7 @@ Download the data collection files to the project directory for analysis.
 ### Step 12 : Run the Graph Generation Scripts 
 
 Run the following scripts to generate graphs for analysis
-1. comparatative-analysis.py (**To accurately compare results whether between different models like Llama 3.1 and Qwen2, or between different hardware like a local Mac and a cloud GPU, it is essential that you set the correct parameters in the script's configuration section before execution.**)
+1. comparative-analysis.py (**To accurately compare results whether between different models like Llama 3.1 and Qwen2, or between different hardware like a local Mac and a cloud GPU, it is essential that you set the correct parameters in the script's configuration section before execution.**)
 2. haystack-comparative-analysis.py (local Macbook pro data analysis)
 3. haystack-context-length-analysis.py (Colab T4 data analysis on performance)
 
