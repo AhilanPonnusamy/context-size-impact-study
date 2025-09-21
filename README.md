@@ -31,7 +31,7 @@ Install the dependent standard Python packages from the requirements.txt file.
 ```bash
 pip install -r requirements.txt
 ```
-login to Huggingface with a write token using ```huggingface-cli login``` command. please ensure that you have accepted the terms and conditions for the llama3.1 model before you proceed.
+**login to Huggingface with a write token** using ```huggingface-cli login``` command. please ensure that you have accepted the terms and conditions for the llama3.1 model before you proceed.
 
 ### Step 4: Start the vLLM Server
 With the venv activated, run the following command. This will download the Llama 3.1 model and start the vLLM server, which exposes an OpenAI-compatible API on port 8000.
@@ -65,7 +65,7 @@ python baseline-test.py
 ```
 After the script completes, you will have a new data file for Qwen2 model created in your directory.
 
-### Step 7: Run Hugging Face Pipeline Test in (Terminal 3)
+### Step 7: Create a Virtual Environment for Hugging Face Pipeline Test (Terminal 3)
 
 Open a new terminal and create a separate virtual environment for the Hugging Face pipeline test, as it requires a **different set of dependencies** than the vLLM experiments.
 
@@ -81,8 +81,8 @@ This is a critical step. You must install the nightly pre-release versions of Py
 pip install --pre torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cpu
 ```
 
-### Step 9 : Inatall the Dependencies and Run the Hugging Face Pipeline test (Terminal 4)
-Open a new terminal and with the newly created hugging face virtual environment activated from **```Step 7```**, install the dependent libraries
+### Step 9 : Inatall the Dependencies and Run the Hugging Face Pipeline test 
+In terminal 3 and with the newly created hugging face virtual environment activated from **```Step 7```**, install the dependent libraries
 
 ```bash
 pip install -r hf-requirements.txt
@@ -94,12 +94,27 @@ python hf-inference-test.py
 ```
 After the script completes, you will have a new data file created in your directory.
 
-### Step 10 : Run Comparison Data Collection scripts on Colab.
+### Step 10 : Run the Low Throughput vLLM test for Comparing the Performance Anomoly 
+Navigate back to **Terminal 2**
+
+With the **context-venv** activated, run the **low throughput** test
+
+```bash
+puthon lowthroughput-test.py
+```
+
+### Step 11 : Run the Comparison Data Collection scripts on Colab.
 Login to **colab** and make sure you have selected T4 CPU (for free tier) or other GPU types for paid subscription. 
 
-To run the analysis, please upload and execute the provided notebooks in sequential order using the **```File > Open Notebook > Upload```** menu. If you are using the free tier of Google Colab, it is crucial that you download your result files immediately after a script finishes to prevent data loss from unexpected runtime refreshes. Due to the free tier's limitations on capacity and runtime, you may need to execute the scripts on separate days. Alternatively, consider running them in parallel using two different accounts in incognito mode to complete the data collection more quickly.
+To run the data collection, please upload and execute the provided notebooks in sequential order using the **```File > Open Notebook > Upload```** menu. If you are using the free tier of Google Colab, it is crucial that you **download your result files immediately after a script finishes** to prevent data loss from unexpected runtime refreshes. Due to the free tier's limitations on capacity and runtime, you may need to execute the scripts on separate days. Alternatively, consider running them in **parallel using two different accounts in incognito mode** to complete the data collection more quickly.
 
 1. Colab_Experiment_Notebook.ipynb
 2. Colab_haystack_Notebook.ipynb
 
 Download the data collection files to the project directory for analysis.
+
+### Step 12 : Run the Graph Generation Scripts 
+
+Run the following scripts to generate graphs for analysis
+1. comparatative-analysis.py (**To accurately compare results whether between different models like Llama 3.1 and Qwen2, or between different hardware like a local Mac and a cloud GPU, it is essential that you set the correct parameters in the script's configuration section before execution.**)
+2. haystack-comparative-analysis.py
