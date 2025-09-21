@@ -1,6 +1,6 @@
 # SLM Context Length Performance & Accuracy Analysis
 ---
-## This [blog](https://yyy.medium.com/@ahilanp/beyond-latency-tolerance-architecting-latency-averse-systems-for-agentic-ai-089f14a4318a) post provides a detailed explanation of this study ##
+## This [blog](https://medium.com/@ahilanp/the-context-tax-a-deep-dive-into-the-hidden-costs-of-larger-and-irrelevant-context-8b166b3296f2) post provides a detailed explanation of this study ##
 
 This repository provides a framework for testing the performance and accuracy of Small Language Models (SLMs) under **various context lengths**. The project analyzes sub-10B parameter models, including **Meta-Llama-3.1-8B and Qwen2-7B**, using a high-performance vLLM inference server and huggingface pipeline for comparison of vLLM prefix caching impact.
 
