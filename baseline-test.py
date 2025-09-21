@@ -18,7 +18,7 @@ VLLM_URL = "http://127.0.0.1:8000/v1"
 #MODEL_ID = "Qwen/Qwen2-7B-Instruct"
 MODEL_ID = "Mistralai/Mistral-7B-Instruct-v0.3"
 HAYSTACK_URL = "http://www.paulgraham.com/cities.html"
-CONTEXT_SIZES_TO_TEST = [500, 1000, 2000, 4000]
+CONTEXT_SIZES_TO_TEST = [1000, 2000, 4000]
 # --- NEW: Configuration for the overnight run ---
 TOTAL_GRAND_RUNS = 5 # The number of times to repeat the entire experiment
 TOTAL_SUB_RUNS = 3   # The number of times to repeat the 25 questions for each setting
