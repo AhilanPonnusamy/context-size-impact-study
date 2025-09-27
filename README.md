@@ -49,7 +49,13 @@ To start the experiment, run the data collection script. Before you begin, pleas
 python baseline-test.py
 ```
 
-After the script completes, you will have a new data file created in your directory.
+### Step 5A: Run the Needle in Haystack Tests
+With the **correct model and output filenname** set, execute the ```Needle in Haystack``` test.
+```bash
+python contextsearch-test.py
+```
+
+After the script completes, you will have a new data file(s) created in your directory.
 
 ### Step 6: Run the Automated Baseline Tests for the Second Model (Qwen) 
 
@@ -63,7 +69,13 @@ Update ```baseline-test.py``` with the Qwen model and Qwen model output filename
 ```bash
 python baseline-test.py
 ```
-After the script completes, you will have a new data file for Qwen2 model created in your directory.
+### Step 6A: Run the Needle in Haystack Tests
+With the **correct model and output filenname** set, execute the ```Needle in Haystack``` test.
+```bash
+python contextsearch-test.py
+```
+
+After the script completes, you will have a new data files for Qwen2 model created in your directory.
 
 ### Step 7: Create a Virtual Environment for Hugging Face Pipeline Test (Terminal 3)
 
